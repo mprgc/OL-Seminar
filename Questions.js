@@ -19,7 +19,7 @@ const originalQuizData = [
     "question": "කෝෂ ලිපිනයක් (Cell Address) නිවැරදිව නිරූපණය කර ඇති අවස්ථාව කුමක්ද?",
     "correct": "B5",
     "distractors": ["5B", "B:5", "5-B"]
-  },/*
+  },
   {
     "question": "Excel මෘදුකාංගයේ සූත්‍රයක් ආරම්භ කළ යුතු අනිවාර්ය ලකුණ කුමක්ද?",
     "correct": "=",
@@ -519,6 +519,7 @@ const originalQuizData = [
  /*   */
 
 ];
+
 
 
 
